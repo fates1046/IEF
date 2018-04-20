@@ -1,0 +1,62 @@
+[
+  {
+    "coin": "BTC",
+    "per_fun": "15%",
+    "exch": "all",
+    "qty": "47",
+    "amnt_usd": "0",
+    "amnt_btc": "0",
+    "book_price": "0",
+    "unreal": "0",
+    "chg": "0",
+    "per_limit": "0"
+  },
+  {
+    "coin": "ETH",
+    "per_fun": "15%",
+    "exch": "all",
+    "qty": "47",
+    "amnt_usd": "0",
+    "amnt_btc": "0",
+    "book_price": "0",
+    "unreal": "0",
+    "chg": "0",
+    "per_limit": "0"
+  },
+  {
+    "coin": "a",
+    "per_fun": "15%",
+    "exch": "all",
+    "qty": "47",
+    "amnt_usd": "0",
+    "amnt_btc": "0",
+    "book_price": "0",
+    "unreal": "0",
+    "chg": "0",
+    "per_limit": "0"
+  },
+  {
+    "coin": "b",
+    "per_fun": "15%",
+    "exch": "all",
+    "qty": "47",
+    "amnt_usd": "0",
+    "amnt_btc": "0",
+    "book_price": "0",
+    "unreal": "0",
+    "chg": "0",
+    "per_limit": "0"
+  },
+  {
+    "coin": "c",
+    "per_fun": "15%",
+    "exch": "all",
+    "qty": "47",
+    "amnt_usd": "0",
+    "amnt_btc": "0",
+    "book_price": "0",
+    "unreal": "0",
+    "chg": "0",
+    "per_limit": "0"
+  }
+]
